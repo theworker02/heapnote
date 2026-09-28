@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/heapnote",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Heap and reshape note text streams with deterministic transforms.",
+  "bin": {
+    "heapnote": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/heapnote.git"
+  },
+  "homepage": "https://theworker02.github.io/heapnote/",
+  "keywords": [
+    "heap",
+    "note",
+    "text",
+    "cli",
+    "toolkit"
+  ]
+}
